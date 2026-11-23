@@ -1,0 +1,10 @@
+{
+  "name": "focus-timer",
+  "version": "0.6.0",
+  "description": "A compact focus card above the prompt, built on focus research: every round has one outcome (typed, a parked next step, or drawn from your last ask and phrased by a small model); in a new session /focus asks what to focus on first; the ring turns amber for the final stretch, today's rounds fill four dots, breaks name one off-screen thing to do, every fourth round earns 15 min, /focus note parks your next step, and the crab drops by: two pops that say 冲鸭! GO!GO!GO! at the start, a peek mid-round, a cheer for the final stretch, YAY! at the finish; 乖，我忙着呢 sends it off for 10 min, /focus crab off sends it home.",
+  "author": {
+    "name": "thinkagen"
+  },
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

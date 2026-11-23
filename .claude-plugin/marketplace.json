@@ -1,0 +1,5 @@
+{
+  "name": "focus-timer",
+  "owner": { "name": "GenLI3202" },
+  "plugins": [{ "name": "focus-timer", "source": "./" }]
+}
